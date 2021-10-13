@@ -1,1 +1,1 @@
-# HTML_Calculator
+# A simple Calculator made using HTML, CSS & JavaScript.
